@@ -28,7 +28,7 @@ This project takes data from JSON file that contains information about airplane 
 
 ## Known Bugs
 
-There are errors when attempting to load the passengers and tickets table to BigQuery resulting from data type errors from the uuid and dated columns.
+N/A
 
 ## License
 
